@@ -1,0 +1,6 @@
+﻿  missile_sim_2023035688.c
+C:\Users\dhson\source\repos\sideproj_missile_sim\missile_sim_2023035688.c(180,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dhson\source\repos\sideproj_missile_sim\missile_sim_2023035688.c(182,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dhson\source\repos\sideproj_missile_sim\missile_sim_2023035688.c(184,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dhson\source\repos\sideproj_missile_sim\missile_sim_2023035688.c(186,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  sideproj_missile_sim.vcxproj -> C:\Users\dhson\source\repos\sideproj_missile_sim\x64\Debug\sideproj_missile_sim.exe
